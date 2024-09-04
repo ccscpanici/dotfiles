@@ -1,0 +1,5 @@
+picom --experimental-backend --config /home/neech/.config/picom/picom.conf &
+/usr/lib/polkit-kde-authentication-agent-1 &
+light-locker &
+flameshot &
+insync start &
